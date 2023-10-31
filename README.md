@@ -3,64 +3,27 @@
 </div>
 <div align="center">
 <div id="badges">
-  <a href="https://www.linkedin.com/in/sayhitojyoti/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <p align="center">
+ <a href="https://sayhitojyoti.github.io/FindmeJyoti/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a>
+ <a href="https://www.linkedin.com/in/sayhitojyoti/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+</p>
 </div> 
 <h1>
 I'm ★J𝓎๏†iraภjaภ★
   <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
-    <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
-    <br>
-    <br>
+    「 I am a full stack web application developer from <b>India ❤️</b> 」
   </samp>
 </p>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><h1>
+
  <h4> 𝘼 𝙙𝙚𝙙𝙞𝙘𝙖𝙩𝙚𝙙 𝙖𝙣𝙙 𝙙𝙚𝙩𝙖𝙞𝙡-𝙤𝙧𝙞𝙚𝙣𝙩𝙚𝙙 𝙞𝙣𝙙𝙞𝙫𝙞𝙙𝙪𝙖𝙡 𝙡𝙤𝙤𝙠𝙞𝙣𝙜 𝙛𝙤𝙧 𝙖𝙣 𝙚𝙣𝙩𝙧𝙮-𝙡𝙚𝙫𝙚𝙡 𝙥𝙤𝙨𝙞𝙩𝙞𝙤𝙣 𝙖𝙩 𝙖 𝙬𝙚𝙡𝙡-𝙧𝙚𝙥𝙪𝙩𝙚𝙙 𝙤𝙧𝙜𝙖𝙣𝙞𝙯𝙖𝙩𝙞𝙤𝙣 𝙩𝙤 𝙜𝙖𝙞𝙣 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 𝙖𝙣𝙙 𝙚𝙭𝙥𝙤𝙨𝙪𝙧𝙚 𝙖𝙣𝙙 𝙚𝙭𝙥𝙖𝙣𝙙 𝙢𝙮 𝙠𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚.</h4>
 </div>
-<!--
-<h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
-
-<!--
-<p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
 
 
-
-/h3>
-
-
-
-<p align="center">
- <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
- <a href="https://twitter.com/alsiam_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/alsiam_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
- <a href="https://facebook.com/alsiam.world" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-  </a> 
-</p>
 <br />
 
 <!-- About Section -->
@@ -71,8 +34,8 @@ I'm ★J𝓎๏†iraภjaภ★
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ 📧 &emsp; Reach me anytime:jyotiranjan3118@gmail.com<br/><br/>
+
 
 </p>
 
